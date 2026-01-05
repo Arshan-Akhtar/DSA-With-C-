@@ -12,7 +12,7 @@
 
 //     for(int i=0;i<n;i++){
 
-// 	int index = i;
+// 	   int index = i;
 
 
 
